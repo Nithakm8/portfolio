@@ -4,6 +4,7 @@ import Home from "./component/Home";
 import Skills from "./component/Skills";
 import Projects from "./component/Projects";
 import Education from "./component/Education";
+import Contacts from "./component/Contacts";
 export default function App() {
   return (
     <div className="font-sans scroll-smooth">
@@ -12,7 +13,7 @@ export default function App() {
       <Skills />
       <Projects />
       <Education />
-      {/* <Contact />   */}
+      <Contacts />   
     </div>
   );
 }
