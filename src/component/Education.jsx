@@ -4,7 +4,7 @@ export default function Education() {
   return (
     <div>
         <h1 className='text-left text-blue-900 pl-10 font-bold text-3xl pt-10'>EDUCATION</h1>
-        <ul className='text-white pl-20 pt-5 text-md list-disc'>
+        <ul className='text-white pl-20 pt-5 text-md list-disc '>
             <li className='hover:text-blue-900'>MERN Stack Internship</li>
                 <p className='text-sm text-gray-600'>Currently doing an internship in MERN stack development.</p>
                 <p className='text-sm text-gray-600'>Organization : Synnefo Solutions</p>

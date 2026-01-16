@@ -7,7 +7,7 @@ import Education from "./component/Education";
 import Contacts from "./component/Contacts";
 export default function App() {
   return (
-    <div className="font-sans scroll-smooth">
+    <div className="font-sans scroll-smooth overflow-x-hidden">
       <Navbar />
       <Home />
       <Skills />
