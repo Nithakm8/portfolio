@@ -16,7 +16,7 @@ export default function Education() {
             </li>
             <li className='hover:text-blue-900'>Bachelor of Computer Applications(BCA)
                 <p className='text-sm text-gray-600'>Learned the fundamentals of programming and web development.</p>
-                <p  className='text-sm text-gray-600'>University : Amrita Vishwa Vidyapeetham University University</p>
+                <p  className='text-sm text-gray-600'>University : Amrita Vishwa Vidyapeetham University</p>
                 <p className='text-sm text-gray-600'>Year : 2011-2014</p>
                 <p className='text-sm text-gray-600'>Percentage : 57.10%</p>
             </li>
